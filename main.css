@@ -61,7 +61,6 @@ section .container,
     margin: 0 auto;
 }
 
-
 section .container{
     align-items: flex-start;
 }
