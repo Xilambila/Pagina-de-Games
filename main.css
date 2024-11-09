@@ -162,7 +162,7 @@ input:focus, textarea:focus {
 footer {
     background-color: #000000;
     color: #fff;
-    text-align: end;
+    text-align: center;
     padding: 20px 0;
-    font-size: 0.9em;
+    font-size: 9px;
 }
